@@ -1,0 +1,1 @@
+These notebooks contain our approach which incorporates four base forecasting models: long short-time memory (LSTM) model, transformer architecturebased model, Prophet statistical model (Prophet) and seasonal autoregressive integrated moving average (SARIMA) model, which were then combined through linear stacking ensembling methodology.

@@ -2,7 +2,8 @@
 
 For the organizers: The python implementations in this repository are executed in Kaggle platform and saved versions of the notebooks with all notebook cell outputs could be found there (ds22-12) at [here](https://www.kaggle.com/competitions/data-storm-30/overview). 
 
-For anyone who wish to reproduce the results: Download the dataset from [here](https://www.kaggle.com/competitions/data-storm-30/data) or [here](https://github.com/NuwanSriBandara/TeamCrypto_DataStorm3/tree/main/Dataset) and place them in the same folder if you are running in the Jupyter notebook enviornment. Make sure to maintain the same folder structure as in [here](https://www.kaggle.com/competitions/data-storm-30/data). Please note that the presented notebooks are executed on Kaggle platform or Google Colaboratory platform, so that the file paths may be needed to change accordingly as per your utilized environment. 
+**For anyone who wish to reproduce the results:** <br />
+Download the dataset from [here](https://www.kaggle.com/competitions/data-storm-30/data) or [here](https://github.com/NuwanSriBandara/TeamCrypto_DataStorm3/tree/main/Dataset) and place them in the same folder if you are running in the Jupyter notebook enviornment. Make sure to maintain the same folder structure as in [here](https://www.kaggle.com/competitions/data-storm-30/data). Please note that the presented notebooks are executed on Kaggle platform or Google Colaboratory platform, so that the file paths may be needed to change accordingly as per your utilized environment. 
 
 Dataset and the case studies do solely belong to the organizers of [this competition](https://www.kaggle.com/competitions/data-storm-30/) and we, as the authors of this Github repository, only consent the rights of our python implementations, which utilize their dataset and/or case study, such that we wish to make our implementations public and open-source.
 

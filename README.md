@@ -1,4 +1,4 @@
-# Univariate and Multivariate time-series forecasting by Team Crypto at DataStorm 3.0 
+# Univariate and multivariate time-series forecasting by Team Crypto at DataStorm 3.0 
 
 For the organizers: The python implementations in this repository are executed in Kaggle platform and saved versions of the notebooks with all notebook cell outputs could be found there (ds22-12) at [here](https://www.kaggle.com/competitions/data-storm-30/overview). 
 
